@@ -1,9 +1,0 @@
-add more dependents
-1.kucing-hitam
-2.@lnix_99/ngopi-warung
-3.ngopi-warung
-4.jeruk-tea
-5.kopi11-tea
-6.kalong-tea
-7.morana-solex
-8.abadon-solex
